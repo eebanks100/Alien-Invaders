@@ -15,3 +15,9 @@ To run this Alien Invaders game, you will need the following dependencies:
 1) Open a command prompt or terminal window.
 2) Navigate to the directory where the game files are located.
 3) Enter the command: `python alien_invasion.py`
+
+
+
+#### Developers
+Thomas Baker
+Elisha Ebanks
