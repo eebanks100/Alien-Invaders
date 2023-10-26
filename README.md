@@ -19,5 +19,5 @@ To run this Alien Invaders game, you will need the following dependencies:
 
 
 #### Developers
-Thomas Baker
-Elisha Ebanks
+- Thomas Baker
+- Elisha Ebanks
